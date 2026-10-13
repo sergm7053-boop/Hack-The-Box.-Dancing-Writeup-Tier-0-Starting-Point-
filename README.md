@@ -1,7 +1,5 @@
 # Hack-The-Box.-Dancing-Writeup-Tier-0-Starting-Point-
 
-# Hack The Box: Dancing Writeup (Tier 0 — Starting Point)
-
 **Дата проведения аудита:** 08 октября 2026 г.
 **Время фиксации компрометации:** 21:06 MSK
 **Атакующая платформа:** Kali Linux arm64 (Гипервизор: VMware Fusion Pro, хост: Apple Silicon M4)
